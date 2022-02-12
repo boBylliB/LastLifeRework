@@ -43,7 +43,39 @@ Death's Grace
 
 # Recipe Changes
 There are a couple recipe tweaks in this game to add some balance and add some things that might be difficult or impossible to get with a limited world size due to the border
-- 
+Removed:
+  Enchanting Table
+    The enchanting table is no longer craftable, but one spawns at [x=0, z=0] by default.
+    If you want to start your game somewhere else in the world, it's recommended to place down a single enchanting table at spawn from creative mode
+    The enchanting table can be moved by players, but this way there is only one and its rarer to have enchantments
+  Bookshelves
+    Bookshelves are also no longer craftable, in order to limit the power of enchantments that you can apply
+    This is mainly a balance thing as with enchantments being rare this makes the power imbalance not as large
+Tweaked
+  TNT
+    TNT is now easier to craft, since it takes less gunpowder.
+        P S P
+        S G S
+        P S P
+    P = paper, S = sand, G = gunpowder
+Added
+  Slimeballs
+    Slimeballs are now craftable by placing one rotten flesh into a crafting slot
+    1 rotten flesh = 1 slimeball
+  Name tags
+    Name tags are now craftable
+          S
+          P
+    S = string, P = paper
+  Saddles
+    Saddles are once again craftable
+    
+          L
+        L   L
+    L = leather
+  Spore Blossom
+    Spore blossoms are craftable for decoration
+    1 lilac + 1 moss block = 1 spore blossom
 
 # Setup/OP Commands
 /function last_life:load
