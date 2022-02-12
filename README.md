@@ -78,8 +78,8 @@ There are a couple recipe tweaks in this game to add some balance and add some t
   - 1 lilac + 1 moss block = 1 spore blossom  
 
 ## Setup/OP Commands
-/function last_life:load  
-This will bring up a message in chat you can click on the configure how you would like to play.  
+/function #minecraft:load  
+TSets up the game   
 
 /scoreboard players set <user> LastLifeLifes <amount>  
 change how many lives a player has  
@@ -91,7 +91,7 @@ to add late joining players
 if the player who killed as boogey wasnt the final blow  
 
 /function last_life:uninstall  
-removes scoreboards and teams. Use this when restarting as well  
+removes scoreboards and teams. Use this when restarting or updating as well, in order to clear everything  
 
 /scoreboard players set $Boogeymen LastLifeBooeyMan <amount>  
 manually sets how many boogeymen you want to have each round (not required to set if you want 1)  
