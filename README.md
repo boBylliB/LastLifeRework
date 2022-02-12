@@ -1,6 +1,7 @@
 # LastLifeRework
 A rework of the minecraft Last Life datapack by Wooferscoots, based on the Last Life YouTube series hosted by Grian.  
-Built for Version 1.18, but might work on other versions
+Built for Version 1.18, but might work on other versions  
+Based on the datapack code written by Wooferscoots https://www.planetminecraft.com/data-pack/last-life/  
 
 Last Life is a social, multiplayer minecraft gamemode in which each player gets anywhere from 3-6 lives at the start of the game, with the goal of being the last player standing.  
 Player names are color coded based on life count, with 1 life being the most unique as red lives are able to initiate fights with any player while 2 lives and above cannot.  
