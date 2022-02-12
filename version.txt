@@ -1,3 +1,22 @@
+version 2.1 updated 2-5-2022
+added target mechanic
+
+version 2.0 updated 2-1-2022
+added Death's Grace feature
+1 boogeyman per every 6 eligible players
+
+version 1.9 updated 1-25-2022
+raise minimum life roll to 3
+added an orange color
+	1 = red
+	2 = orange
+	3 = yellow
+	4 = lime
+	5+ = dark green
+added recipe for slimeballs from rotten flesh
+
+-- boBylliB's edits start here upwards
+
 version 1.8 updated 10-23-2021
 add 1.16 support
 fix fail not working
