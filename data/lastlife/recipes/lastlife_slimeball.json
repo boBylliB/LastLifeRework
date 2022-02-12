@@ -1,0 +1,10 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [
+		{"item": "minecraft:rotten_flesh",
+		"count": 4}
+	],
+	"result": {
+		"item": "minecraft:slime_ball"
+	}
+}

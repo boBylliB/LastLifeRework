@@ -1,0 +1,39 @@
+version 1.8 updated 10-23-2021
+add 1.16 support
+fix fail not working
+
+version 1.7 updated 10-19-2021
+fix bug where players werent joining teams
+
+version 1.6 updated 10-17-2021
+fix bug where if a player had a kill and where chosen as boogey they were instantly cured
+
+version 1.5 updated 10-13-2021
+add new function to roll for players joining late
+do not take tnt recipe, see scars fail episode 3ish
+add saddle recipe, see pearls comment in episode 2... might not be entirely accurate
+change world border default to 1500
+
+version 1.4 updated 10-07-2021
+small fix for give lifes trigger working for any score
+
+version 1.3 updated 10-06-2021
+revoke bookshelves recipe. 
+fix all players boogeyman
+
+version 1.2 updated 10-03-2021
+Add command to set session length for boogeyman
+/trigger LastLifeRound set XXX
+Add command to see how much time is left in the session
+/trigger LastLifeTime
+fix tnt recipe being available if recipes selected
+fix cure showing up for non boogies
+Thanks again Stall_Rex
+
+version 1.1 updated 10-02-2021
+Add command to check lives you have
+/trigger LastLifeCheck
+Add missing/incorrect crafting recipes
+Thanks Stall_Rex
+
+version 1.0 posted 10-01-2021

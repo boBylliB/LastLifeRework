@@ -1,0 +1,1 @@
+execute as @p[tag=!Sorted,scores={LastLifeLifes=1..}] run function last_life:healthboost/setid

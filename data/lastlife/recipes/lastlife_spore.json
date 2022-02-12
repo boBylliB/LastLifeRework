@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:lilac"
+        },
+        {
+            "item": "minecraft:moss_block"
+        }
+    ],
+    "result": {
+        "item": "minecraft:spore_blossom",
+        "count": 1
+    },
+    "group": "lastlife"
+}
