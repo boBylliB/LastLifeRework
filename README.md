@@ -14,31 +14,32 @@ The two main features that distinguish this datapack from the original concept b
 #### DISCLAIMER
 While this version has all of the features that I wanted to build before converting to a plugin, it still has some issues when running a long-term, large player count game.
 Feel free to run this, I don't need anything (but credit in the description or a shoutout could be nice) just keep in mind as the game goes on you may encounter some bugs that I have yet to fix.
+Also, while most of the features have to do with gameplay code, some of them are rules of the game that you must either enforce somehow or rely on an honor system. Rules are highlighted below as "(Rule)", features are highlighted below as "(Feature)", and a feature that relies on certain rules will be highlighted as "(Feature/Rule)"
 
 ## Core Gameplay Features:
-#### Limited Lives  
+#### Limited Lives  (Feature)
 - Each player is given a random amount of lives from 3-6 at the start of the game, and only has those lives to survive  
 - You can also choose to give one of your lives to another player through a command  
-#### PvP Restrictions  
+#### PvP Restrictions  (Rule)
 - Players with more than one life cannot initiate fights unless they are the boogeyman, but they can retaliate and finish those fights  
-#### The Last Life  
+#### The Last Life  (Feature/Rule)
 - Once a player reaches one life remaining, their name becomes red and they lose all ties/friendships/teams with any players that have more than one life  
 - This also frees any player with one life to be able to initiate fights with anyone they choose  
 - Red players will commonly team up with a couple other red players to attack and loot more effectively  
-#### The Boogeyman  
+#### The Boogeyman  (Feature/Rule)
 - Every session a number of boogeymen will be selected based on the amount of players who have more than one life  
   - By default, this limiter is 6, so: 1-5 = 1 boogeyman, 6-11 = 2 boogeymen, 12-17 = 3 boogeymen, etc.  
 - The boogeyman will always be drawn from players who have more than one life  
 - The boogeyman's objective is to kill another player who has more than one life before the end of the session, in order to be "cured" of their boogeyman curse  
 - If the boogeyman fails in getting that kill before the session ends, they are stripped of their lives and brought down to 1 life remaining  
-#### The Target  
+#### The Target  (Feature)
 - Every session that a boogeyman is chosen, if there are more than one boogeyman then a target is also selected  
   - This limiter can also be changed but by default it is 6 so that it coincides with the default boogeyman limiter  
   - There is only ever one target chosen, even if there are more than two boogeymen  
 - This target is revealed only to the target themselves, and the boogeymen of the session  
 - The boogeymen do not have to kill the target to be cured, but the first boogeyman to kill the target receives an extra life as a reward  
 - The target is also reset at the end of the session, so once the next session starts the player is no longer the target  
-#### Death's Grace  
+#### Death's Grace  (Feature)
 - If a player dies for the last time, they become a spectator  
 - They also receive the ability to give a single heart of extra health to a living player of their choosing  
   - The only restriction on this is that the player has to be alive, so even red names can receive a health boost  
