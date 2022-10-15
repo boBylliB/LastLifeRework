@@ -3,6 +3,10 @@ A rework of the minecraft Last Life datapack by Wooferscoots, based on the Last 
 Built for Version 1.18, but might work on other versions  
 Based on the datapack code written by Wooferscoots https://www.planetminecraft.com/data-pack/last-life/  
 
+#### DISCLAIMER
+While this version has all of the features that I wanted to build before converting to a plugin, it still has some issues when running a long-term, large player count game.
+Feel free to run this, I don't need anything (but credit in the description or a shoutout could be nice) just keep in mind as the game goes on you may encounter some bugs that I have yet to fix.
+
 Last Life is a social, multiplayer minecraft gamemode in which each player gets anywhere from 3-6 lives at the start of the game, with the goal of being the last player standing.  
 Player names are color coded based on life count, with 1 life being the most unique as red lives are able to initiate fights with any player while 2 lives and above cannot.  
 Red lives and anyone with more than 1 life cannot team together, but red lives can team with other red lives and non-red lives can team with other non-red lives.  
